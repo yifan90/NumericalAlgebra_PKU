@@ -2,7 +2,7 @@
 
 All the code are included in n_algebra.h and n_algebra.cpp.
 
-There were 4 assignments. To run HW_X.cpp (X = 1,2,3,4) just use the following in terminal 
+There were 4 assignments. To see HW_X (X = 1,2,3,4) just use the following commend in terminal 
 
 g++  n_algebra.h n_algebra.cpp. HW_X.cpp
 
